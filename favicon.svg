@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="48" fill="#fbf9f3"/>
+  
+  <!-- Letter A -->
+  <text
+    x="50"
+    y="70"
+    font-family="Crimson Text, serif"
+    font-size="69"
+    text-anchor="middle"
+    fill="#272624"
+    font-weight="600">
+    A
+  </text>
+</svg>
