@@ -24,3 +24,8 @@ a {
 a:hover {
   color: #777;
 }
+
+[title] {
+  text-decoration: underline dotted;
+  cursor: help;
+}
